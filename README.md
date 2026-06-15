@@ -1,14 +1,39 @@
-<h1 align="center">clown6613 🤡</h1>
+<div align="center">
 
-<p align="center">
-  Androidエンジニア ｜ Kotlinは友達、Javaはトラウマ
-</p>
+# 🤡 clown6613
 
-<p align="center">
-  「<code>onStop()</code> に入ったのになぜかまだ動いてる...」と毎日格闘してます
-</p>
+**Androidエンジニア / Gradle待機専門家**
+
+```kotlin
+while (alive) {
+    coffee++
+    if (gradle.isBuilding) stareAtScreen()
+    else if (app.isCrashing) blame(device)
+    else ship() // ← ここには一生たどり着かない
+}
+```
+
+</div>
 
 ---
+
+<div align="center">
+
+### 💬 よく言うこと
+
+| 状況 | 発言 |
+|:---:|:---:|
+| バグ発見時 | 「仕様です」 |
+| Gradle 実行中 | 「（虚空を見つめる）」 |
+| リリース直前 | 「テストは心の中にある」 |
+| NullPointerException | 「お前まだいたんか」 |
+| Java を見たとき | 「なんか懐かしいな（目を逸らす）」 |
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
@@ -18,20 +43,27 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clown6613&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clown6613&layout=compact&theme=tokyonight" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=clown6613&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clown6613&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📡 Links
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/clown6613)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/clon6613)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/clown6613)
+
+</div>
