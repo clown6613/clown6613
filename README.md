@@ -1,69 +1,24 @@
 <div align="center">
 
-# 🤡 clown6613
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Engineer;Kotlin+%3E+everything;Building+things+that+just+work." alt="Typing SVG" />
 
-**Androidエンジニア / Gradle待機専門家**
+<br/>
 
-```kotlin
-while (alive) {
-    coffee++
-    if (gradle.isBuilding) stareAtScreen()
-    else if (app.isCrashing) blame(device)
-    else ship() // ← ここには一生たどり着かない
-}
-```
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
-</div>
+<br/>
 
----
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=clown6613&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clown6613&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
 
-<div align="center">
+<br/>
 
-### 💬 よく言うこと
-
-| 状況 | 発言 |
-|:---:|:---:|
-| バグ発見時 | 「仕様です」 |
-| Gradle 実行中 | 「（虚空を見つめる）」 |
-| リリース直前 | 「テストは心の中にある」 |
-| NullPointerException | 「お前まだいたんか」 |
-| Java を見たとき | 「なんか懐かしいな（目を逸らす）」 |
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠 Tech Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=clown6613&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clown6613&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📡 Links
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/clown6613)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/clon6613)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/clown6613)
+[![X](https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=black)](https://x.com/clown6613)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/clown6613)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/clown6613)
 
 </div>
