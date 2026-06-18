@@ -18,7 +18,7 @@
 <br/>
 
 [![X](https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=black)](https://x.com/clown6613)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/clown6613)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/clon6613)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/clown6613)
 
 </div>
