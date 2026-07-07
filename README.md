@@ -10,10 +10,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
-<br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=clown6613 />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clown6613 />
 
 <br/>
 
